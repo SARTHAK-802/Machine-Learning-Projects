@@ -53,7 +53,7 @@ Machine-Learning-Projects
 
 ---
 
-## Technologies Used
+## Library and Tools Used
 
 - Python
 - NumPy
